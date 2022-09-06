@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramadhanu Kadir Rachono</h1>
 <h3 align="center">Sangat Suka dengan Javascript // Bisa juga jadi UI&UX</h3>
-<img align="center" alt="coding" width="400" src="https://giphy.com/gifs/adultswim-l41JU9pUyosHzWyuQ">
+<img align="center" alt="coding" width="500" src="https://giffiles.alphacoders.com/118/118772.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danu710&label=Profile%20views&color=0e75b6&style=flat" alt="danu710" /> </p>
